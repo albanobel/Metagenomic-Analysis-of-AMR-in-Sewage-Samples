@@ -4,4 +4,4 @@ Sewage samples provide a convenient way of studying antimicrobially resistant (A
 
 ## Poster
 
-![](./results/AMR analysis of finnish sewage sample.png)
+![](./AMR analysis of finnish sewage sample.png)
